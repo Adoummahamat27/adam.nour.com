@@ -1,0 +1,154 @@
+body{
+    background-color: white;
+}
+
+ul{
+    display: inline;
+    text-align: center;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+    
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 40PX;
+    padding: 10px;
+
+}
+.don{
+    width: 90px;
+    height: 90px;
+}
+a:focus{
+    color: rgb(61, 21, 238);
+}
+h2:hover{
+    color: rgb(17, 30, 216);
+}
+h1{
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    background-color: rgb(167, 22, 147);
+    color: white;
+    padding-bottom: 30px;
+}
+nav{
+    background-color: rgb(240, 11, 11);
+    font-size: 1.1em;
+    box-shadow: 0px 3px 1px -1px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 10px;
+}
+h1:before{
+    content: "«";
+    color:grey;
+    text-transform: lowercase;
+}
+h1:after{
+    content: "»";
+    color: grey;
+    text-transform: lowercase;
+}
+.ma boutique {
+	width: 80%;
+	margin: auto;
+}
+
+.nour{
+	width: 400px;
+	margin: 40px;
+	display: inline-block;
+	background: rgb(31, 135, 204);
+	padding-bottom: 15px;
+	border: 0px black solid;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.structure {
+	width: 400px;
+	height: 250px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    animation: none;
+    transform: none;
+}
+img {
+	min-width: 400px;
+	height: 266px;
+}
+
+section {
+	text-align: center;
+	margin-top: 50px;
+}
+
+h1 {
+	font-family: 'theblacklist', arial, sans-serif;
+	margin-top: 0;
+	padding-top: 25px;
+}
+
+h1:active {
+	color: red;
+}
+
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5em;
+	width: 400px;
+	margin: auto;
+}
+.prix{
+    font-size: 0.8em;
+    background-color: aqua;
+}
+span{
+    background-color: white;
+    font-weight: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+fieldset{
+
+    color: white;
+    background-color: aqua;
+
+}
+legend{
+    background-color: blue;
+    color: white;
+    
+}
+label{
+    background-color: orangered;
+    border-radius: 10px;
+}
+input{
+    color: blue;
+}
+strong{
+    color: blueviolet;
+}
+.Ventes{
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(32, 151, 206);
+}
+.Adam{
+    text-align: center;
+    border-radius: 40px;
+}
